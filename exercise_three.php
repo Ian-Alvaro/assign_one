@@ -1,11 +1,11 @@
 <html>
     <body>
         <form action ="" method="post">
-                Input First Number:<br>
-                <input type="text" name="num1" value=""><br><br>
-                Input Second Number:<br>
-                <input type="text" name="num2" value=""><br><br>
-                <input type="submit" name="submit" value="Submit"> </button>
+               Input First Number:<br>
+               <input type="text" name="num1" value=""><br><br>
+               Input Second Number:<br>
+               <input type="text" name="num2" value=""><br><br>
+               <input type="submit" name="submit" value="Submit"> </button>
         </form>
     </body>
 </html>
